@@ -1,9 +1,4 @@
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Wolf-WMT/Wolf-WMT/main/assets/wolf-header.svg"
-    alt="Wolf-WMT Cyber Header"
-    width="100%">
-</p>
+
 
 # 🐺 Wolf-WMT
 
