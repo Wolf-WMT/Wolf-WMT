@@ -1,11 +1,11 @@
 # 🐺 Wolf-WMT
 
 ```text
-┌──────────────────────────────────────────────┐
-│  SYSTEM: ONLINE                              │
-│  USER:   Wolf-WMT                            │
-│  FOCUS:  CODE • SYSTEMS • SECURITY           │
-└──────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════╗
+║  SYSTEM: ONLINE                                  ║
+║  USER:   Wolf-WMT                                ║
+║  FOCUS:  CODE • SYSTEMS • SECURITY               ║
+╚══════════════════════════════════════════════════╝
 ```
 
 ### `Python → Linux → C → Cybersecurity`
@@ -17,11 +17,11 @@
 ## ⚡ Current Focus
 
 ```text
-🐍 Python
-🐧 Linux
-⚙️ C
-🔐 Cybersecurity
-🧮 Mathematics & Logic
+🐍  Python
+🐧  Linux
+⚙️  C
+🔐  Cybersecurity
+🧮  Mathematics & Logic
 ```
 
 ## 🧠 Exploring
@@ -50,7 +50,15 @@ Improving...
 
 ---
 
-## 🚀 Projects
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,linux,bash,git,github,vscode" alt="Tech Stack">
+</p>
+
+---
+
+## 🚀 Featured Project
 
 ### 🌐 Personal Website
 
@@ -68,7 +76,7 @@ Cyberpunk-inspired personal portfolio built with:
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wolf-WMT&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
@@ -77,9 +85,6 @@ Cyberpunk-inspired personal portfolio built with:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolf-WMT&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
 </p>
-
----
-
 
 ---
 
