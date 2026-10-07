@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./assets/wolf-header.svg" alt="Wolf-WMT Cyber Header">
+  <img src="https://raw.githubusercontent.com/Wolf-WMT/Wolf-WMT/main/assets/wolf-header.svg" alt="Wolf-WMT Cyber Header">
 </p>
+
 # 🐺 Wolf-WMT
 
 ```text
