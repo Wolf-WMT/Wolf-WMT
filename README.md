@@ -80,11 +80,6 @@ Cyberpunk-inspired personal portfolio built with:
 
 ---
 
-## 🐍 Contribution
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Wolf-WMT/Wolf-WMT/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
-</p>
 
 ---
 
