@@ -8,7 +8,7 @@
 ╚══════════════════════════════════════════════════╝
 ```
 
-### `Python → Linux → C → Cybersecurity`
+### `Python → Linux → C → Assembly → Cybersecurity`
 
 > **Learn the system. Understand the logic. Build from the ground up.**
 
@@ -20,6 +20,7 @@
 🐍  Python
 🐧  Linux
 ⚙️  C
+🔧  Assembly
 🔐  Cybersecurity
 🧮  Mathematics & Logic
 ```
@@ -40,6 +41,7 @@ $ cat /focus
 Python
 Linux
 C
+Assembly
 Cybersecurity
 
 $ cat /status
@@ -52,9 +54,19 @@ Improving...
 
 ## 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,linux,bash,git,github,vscode" alt="Tech Stack">
-</p>
+| Technology             | Level                     |
+| ---------------------- | ------------------------- |
+| 🐍 Python              | `████████░░` Intermediate |
+| 🐧 Linux               | `██████░░░░` Learning     |
+| ⚙️ C                   | `████░░░░░░` Learning     |
+| 🔧 Assembly            | `██░░░░░░░░` Exploring    |
+| 🔐 Cybersecurity       | `████░░░░░░` Learning     |
+| 🧮 Mathematics & Logic | `███████░░░` Strong       |
+| 🌐 HTML / CSS          | `██████░░░░` Intermediate |
+
+### 🔧 Tools
+
+`Git` · `GitHub` · `VS Code` · `Bash`
 
 ---
 
@@ -67,12 +79,6 @@ Cyberpunk-inspired personal portfolio built with:
 `React` · `TypeScript` · `Vite` · `Tailwind CSS`
 
 → [View Repository](https://github.com/Wolf-WMT/personal-website)
-
----
-
-## 🛠️ Tools
-
-`Git` · `GitHub` · `VS Code` · `Linux`
 
 ---
 
@@ -101,4 +107,3 @@ Cyberpunk-inspired personal portfolio built with:
 <p align="center">
   <sub>Learning • Building • Exploring</sub>
 </p>
-
